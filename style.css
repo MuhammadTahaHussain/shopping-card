@@ -1,0 +1,47 @@
+
+body{
+	font-family: 'Sulphur Point', sans-serif;
+}
+
+.setting{
+	margin-top: 50px;
+}
+h1{
+	font-size: 50px;
+	font-weight: bold;
+	color: #fff;
+	margin-top: 0px;
+	margin-bottom: 50px;
+}
+.head-pro{
+	font-size: 45px;
+	font-weight: bold;
+	color: #F8F009;
+	border-bottom: 1px solid #F8F009;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+.price{
+	font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+	margin-top: 10px;
+
+}
+.badge{
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+
+
+@media screen and (max-width: 767px) {
+	.head-pro{
+	font-size: 30px;
+	font-weight: bold;
+	color: #F8F009;
+	border-bottom: 1px solid #F8F009;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+}
